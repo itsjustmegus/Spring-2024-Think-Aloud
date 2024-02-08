@@ -1,11 +1,11 @@
 # Spring-2024-Think-Aloud
 
-## For this think aloud, I will be continuing my think aloud from the fall.
+## For this think aloud, I will be learning how to write scripts in Unity
 
 ## I plan on:
-- continuinig to learn C++ game design
-- learning how to make GUI programs in C++
-- using libraries to make GUI games in C++
+- Learning concepts of scripting in C#
+- Creating my own scripts
+- Implimenting them into Unity projects
 
-## I will start with some YouTube tutorials on GUIs
-- https://youtu.be/LF1cI7zeFm4?si=KF17I1W94qxMs02a
+## I will use YouTube tutorials, Unity Learn, and ChatGPT to learn basics and concepts
+- https://learn.unity.com/course/beginner-scripting
