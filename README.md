@@ -9,3 +9,5 @@
 
 ## I will use YouTube tutorials, Unity Learn, and ChatGPT to learn basics and concepts
 - https://learn.unity.com/course/beginner-scripting
+
+## My work concurrent work is documented in the "ThinkAloud" word document in the repository
